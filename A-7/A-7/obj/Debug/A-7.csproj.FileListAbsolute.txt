@@ -1,0 +1,8 @@
+C:\Aug21\A-7\A-7\bin\Debug\A-7.exe.config
+C:\Aug21\A-7\A-7\bin\Debug\A-7.exe
+C:\Aug21\A-7\A-7\bin\Debug\A-7.pdb
+C:\Aug21\A-7\A-7\obj\Debug\A-7.csproj.AssemblyReference.cache
+C:\Aug21\A-7\A-7\obj\Debug\A-7.csproj.SuggestedBindingRedirects.cache
+C:\Aug21\A-7\A-7\obj\Debug\A-7.csproj.CoreCompileInputs.cache
+C:\Aug21\A-7\A-7\obj\Debug\A-7.exe
+C:\Aug21\A-7\A-7\obj\Debug\A-7.pdb
